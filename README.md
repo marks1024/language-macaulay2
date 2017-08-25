@@ -2,6 +2,8 @@
 
 This package provides syntax highlighting for the Macaulay2 language for the Atom editor.  
 
+See [M2](https://github.com/Macaulay2) for the Macaulay2 language project.  It is a computer algebra system.  
+
 ---
 
 ## Notes
