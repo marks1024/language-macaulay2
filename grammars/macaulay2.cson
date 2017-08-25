@@ -4,7 +4,6 @@
   'm2'
 ]
 'patterns': [
-  {'include': '#test'}
   {'include': '#keywords'}
   {'include': '#comment'}
   {'include': '#strings'}
