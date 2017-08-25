@@ -2,7 +2,7 @@
   "name": "language-macaulay2",
   "version": "0.0.0",
   "description": "Syntax highlighting for the macaulay2 language",
-  "repository": "https://github.com/atom/language-macaulay2",
+  "repository": " ",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
