@@ -1,8 +1,8 @@
 # language-macaulay2 package
 
-This package provides syntax highlighting for the Macaulay2 language for the Atom editor.  
+This package provides syntax highlighting for the Macaulay2 language for the Atom editor.  It applies to files with the `m2` extension.  
 
-See [M2](https://github.com/Macaulay2) for the Macaulay2 language project.  It is a computer algebra system.  
+The main repository for the Macaulay2 language is located at [https://github.com/Macaulay2/M2](https://github.com/Macaulay2/M2).  Resources about the language can be found at [http://www2.macaulay2.com/Macaulay2/](http://www2.macaulay2.com/Macaulay2/).
 
 ---
 
@@ -10,6 +10,8 @@ See [M2](https://github.com/Macaulay2) for the Macaulay2 language project.  It i
 
 This package is still in an early stage of development.  However, the keyword coverage should be fairly thorough.  
 
+More features are forthcoming.  
+
 ## Contributing
 
-Contributions are welcome.  To make a contribution fork this repository and open a pull request.  
+Contributions are welcome.  Open an issue if you notice a bug.  To make a contribution fork this repository and open a pull request.  
